@@ -10,10 +10,10 @@ I've also spent years working in customer-facing roles in retail and healthcare 
 
 ## 🛠️ Skills
 
-**Data & Databases:** SQL (MySQL), relational database design, Oracle APEX
-**Analysis & Visualization:** Tableau, Excel
-**Programming:** Python
-**Certifications:** Microsoft Office Specialist: Associate (Word, Excel, PowerPoint) · Intuit QuickBooks Certified
+- **Data & Databases:** SQL (MySQL), relational database design, Oracle APEX
+- **Analysis & Visualization:** Tableau, Excel
+- **Programming:** Python
+- **Certifications:** Microsoft Office Specialist: Associate (Word, Excel, PowerPoint) · Intuit QuickBooks Certified
 
 ---
 

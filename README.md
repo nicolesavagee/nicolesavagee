@@ -49,4 +49,4 @@ Built a job portal in Oracle APEX with linked pages for companies, job postings,
 
 ## 📫 Connect
 
-[LinkedIn](LINK_TO_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/nicole-savage-)

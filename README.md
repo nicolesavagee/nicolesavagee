@@ -29,13 +29,13 @@ Analyzed MTA subway ridership data to answer three questions: which boroughs and
 
 ---
 
-### 🛳️ Cruise Line Operations Database
+### 🛳️ Carnival Cruise Line: Ship Operations Database
 *Team project*
 
-Designed a normalized 9-table relational database with 8 foreign key relationships to model cruise line operations. Wrote queries to analyze the data and presented recommendations on operational efficiency, safety, and sustainability.
+A 9-table MySQL database with 8 foreign key relationships that replaces paper-based tracking of crew tasks, passengers, and ship supplies, plus 10 business queries written for specific managers. I led the final stakeholder presentation of the design and findings.
 
-**Tools:** MySQL · ERD design
-🔗 [Schema, ERD & queries](LINK_TO_REPO)
+**Tools:** MySQL · ER modeling
+🔗 [ERD, queries & presentation](https://github.com/nicolesavagee/cruise-line-database)
 
 ---
 

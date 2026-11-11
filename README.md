@@ -4,7 +4,7 @@
 
 I've also spent years working in customer-facing roles in retail and healthcare operations, so I care about what the numbers mean for the people behind them.
 
-📍 Miami, FL · 🗣️ English & Spanish (native)
+📍 Miami, FL · English & Spanish (native)
 
 ---
 
@@ -19,7 +19,7 @@ I've also spent years working in customer-facing roles in retail and healthcare 
 
 ## 📊 Projects
 
-### 🚇 How New York Rides: Subway Ridership & the Shift to Contactless Payment
+### 🚇 How New York Rides: Subway Ridership & the Shift to Contactless Payment (In progress)
 [![Dashboard preview](LINK_TO_DASHBOARD_SCREENSHOT)](LINK_TO_TABLEAU_PUBLIC)
 
 Analyzed MTA subway ridership data to answer three questions: which boroughs and stations have recovered fastest since 2020, how quickly riders have adopted OMNY contactless payment, and how weekday commuting differs from weekend travel.
